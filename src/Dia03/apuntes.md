@@ -6,7 +6,7 @@ en java hay dos tipos de conversiones
 
 ## Conversión implícita (widening)
 
-- Automática por Java cuando no hay pérdida de información.
+esta conversion lo hace java automaticamente 
 
 ### Ejemplo
 
@@ -20,8 +20,7 @@ en este orden: byte -> short -> char -> int -> long -> float -> double
 
 ## Conversión explícita (narrowing)
 
-- Se debe hacer manualmente porque puede haber pérdida de información.
-- Se usa el operador cast: (tipo) valor
+- Se hace de manera manula usando el operador cast: (tipo) valor
        
 ### Ejemplo
 
@@ -32,5 +31,5 @@ en este orden: double -> float -> long -> int -> char -> short -> byte
 
 ## NOTA:
 
-- Siempre preferir conversiones implícitas para evitar errores.
-- La conversión explícita requiere cuidado para no perder datos.
+- Siempre preferir conversiones implícitas para evitar perdidas de datos.
+- La conversión explícita requiere cuidado ya que se puede perder datoss
