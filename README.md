@@ -16,3 +16,4 @@ Fortalecer mis bases de Java desde lo más fundamental hasta programación orien
 ## Progreso 📈
 - [x] Día 1: Variables y tipos de datos primitivos
 - [x] Día 2: Operadores (aritméticos, lógicos, etc)
+- [x] Diá 3: Casting implicito y explicito
