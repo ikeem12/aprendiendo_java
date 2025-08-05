@@ -2,18 +2,16 @@
 
 - se almacenan en el stack
 
-------------------------------------------------------
-| TIPO     | VALOR QUE ALMACENA                      |
-------------------------------------------------------
-| byte     | -128 a 127 (8 bits)                     |
-| short    | -32,768 a 32,767 (16 bits)              |
-| int      | -2,147,483,648 a 2,147,483,647 (32 bits)|
-| long     | Números enteros grandes (64 bits)       |
-| float    | Decimales con precisión simple (32 bits)|
-| double   | Decimales con mayor precisión (64 bits) |
-| char     | Un solo carácter Unicode (16 bits)      |
-| boolean  | true o false (1 bit)                    |
-------------------------------------------------------
+| TIPO     | VALOR QUE ALMACENA                          |
+|----------|---------------------------------------------|
+| byte     | -128 a 127 (8 bits)                         |
+| short    | -32,768 a 32,767 (16 bits)                  |
+| int      | -2,147,483,648 a 2,147,483,647 (32 bits)    |
+| long     | Números enteros grandes (64 bits)           |
+| float    | Decimales con precisión simple (32 bits)    |
+| double   | Decimales con mayor precisión (64 bits)     |
+| char     | Un solo carácter Unicode (16 bits)          |
+| boolean  | true o false (1 bit)                        |
 
 ## ¿Que es el stack?
 
