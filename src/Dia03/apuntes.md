@@ -4,7 +4,7 @@ Conversiones o "casting" es convertir un valor de un tipo a otro.
 
 en java hay dos tipos de conversiones
 
-1. Conversión implícita (widening)
+## Conversión implícita (widening)
 
 - Automática por Java cuando no hay pérdida de información.
 
@@ -18,7 +18,7 @@ double d = l;     // long a double (implícito)
 
 en este orden: byte -> short -> char -> int -> long -> float -> double
 
-2. Conversión explícita (narrowing)
+## Conversión explícita (narrowing)
 
 - Se debe hacer manualmente porque puede haber pérdida de información.
 - Se usa el operador cast: (tipo) valor
