@@ -1,4 +1,4 @@
-package Dia03;
+package Dia3;
 
 public class Conversiones {
     public static void main(String[] args) {
