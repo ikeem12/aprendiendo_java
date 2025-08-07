@@ -1,4 +1,4 @@
-package DIa02;
+package Dia2;
 
 public class Operadores {
     public static void main(String[] args) {
