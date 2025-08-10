@@ -18,3 +18,4 @@ Fortalecer mis bases de Java desde lo más fundamental hasta programación orien
 - [x] Día 2: Operadores (aritméticos, lógicos, etc)
 - [x] Diá 3: Casting implicito y explicito
 - [x] Diá 4: Estructura de control(if-else, switch-case)
+- [x] Diá 5: Bucles (for, while, do-while)
