@@ -1,4 +1,4 @@
-package DIa05;
+package Dia5;
 
 import java.util.Scanner;
 import java.time.LocalTime;
