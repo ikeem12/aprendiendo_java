@@ -20,3 +20,5 @@ Fortalecer mis bases de Java desde lo más fundamental hasta programación orien
 - [x] Diá 4: Estructura de control(if-else, switch-case)
 - [x] Diá 5: Bucles (for, while, do-while)
 - [x] Diá 6: Metodos
+- [x] Diá 7: Clases
+- [x] Diá 8: Constructores
