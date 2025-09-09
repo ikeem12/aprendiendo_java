@@ -22,3 +22,4 @@ Fortalecer mis bases de Java desde lo más fundamental hasta programación orien
 - [x] Diá 6: Metodos
 - [x] Diá 7: Clases
 - [x] Diá 8: Constructores
+- [x] Diá 9: Encapsulamiento
