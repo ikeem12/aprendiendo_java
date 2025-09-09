@@ -74,3 +74,17 @@ en java hay dos tipos de modificadores:
 | `final`        | No se puede cambiar o modificar el atributo o el metodo más adelante                                     |
 | `abstract`     | El método no tiene cuerpo y debe ser implementado en una subclase. Solo se usa en clases abstractas.     | 
 | `synchronized` | Solo **un hilo a la vez** puede ejecutar ese método. Se usa en programación concurrente.                 |
+
+## Sobrecarga de metodos
+
+con la sobrecarga de metodos, varios metodos pueden tener el mismo nombre pero diferentes parametros y diferente codigo
+
+````java
+public static void saludar() {
+    System.out.println("¡Hola, mundo!");
+}
+
+public static void saludar(String nombre) {
+    System.out.println("¡Hola, " + nombre);
+}
+````
